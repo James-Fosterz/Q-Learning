@@ -5,5 +5,4 @@ This was Unviersity Coursework that has been preovously submitted and shows my l
 The Spaceship File is a game I designed based on what we had been taught and the parameters set by the task.
 
 The Q-Learning file contain the code for Q-Learning which is used to try and beat the game consistently.
-The parameters currently set in the code are nto those used to achieve the best results
-
+The parameters currently set in the code are nto those used to achieve the best results With some fiddling I managed to get Q-leanring the win the game more than 75% of the time on a spaceship of size complexity N=10.
